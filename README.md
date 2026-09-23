@@ -1,4 +1,4 @@
-# poo-gabriel
+# poo-f1227tg
 
 ## Trabalho: Lojinha com classe Produto
 
